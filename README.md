@@ -29,3 +29,9 @@ export CPPFLAGS="-I/usr/local/opt/ruby/include"
 ```
 hugo import jekyll --force --debug ../tmp/ .
 ```
+
+# Starting hugo
+
+```
+/usr/local/bin/hugo server -D --debug --disableFastRender --renderToDisk
+```
