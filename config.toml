@@ -8,8 +8,19 @@ disableKinds = ["term", "taxonomy"]
 languagecode = "de"
 defaultcontentlanguage = "de"
 
-[module]
+[menu]
+    [[menu.main]]
+        name = "Home"
+        weight = 1
+        url = "/"
 
+    [[menu.main]]
+        name = "About"
+        weight = 2
+        url = "about/"
+
+
+[module]
     [[module.mounts]]
         source = "assets/scss"
         target = "assets/scss"

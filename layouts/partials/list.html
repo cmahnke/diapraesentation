@@ -5,10 +5,26 @@
   {{ .Content }}
   <ul>
     {{ range .Paginator.Pages }}
+      <div class="post text">
+        <div class="narrow">
+          {{ partial "logo.html" . }}
+          <div class="caption">
+            {{ .Content }}
+          </div>
+          <div class="metadata">
+              <div class="date">
+                <a href="{{ .RelPermalink }}">
+                  {{- partial "date.html" (dict "date" .Date "language" $.Page.Language "months" $.Site.Data.months) -}}
+                </a>
+              </div>
+          </div>
+      </div>
+    {{/* original
     <li>
       <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
       <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
     </li>
+    */}}
     {{ end }}
   </ul>
   {{ partial "pagination.html" . }}

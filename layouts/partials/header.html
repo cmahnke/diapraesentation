@@ -1,13 +1,13 @@
 <div id="header">
   <div class="links">
     <ul>
-      <li><a href="/">Home</a></li>
-                  {block:HasPages}
-                  {block:Pages}
-      <li><a href="{URL}">{Label}</a></li>
-                  {/block:Pages}
-                  {/block:HasPages}
-
+      {{ with .Site.Menus.main}}
+        {{ range sort . }}
+          <li class="navigation-item">
+            <a class="navigation-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
     </ul>
   </div>
     <div class="blog-title">
