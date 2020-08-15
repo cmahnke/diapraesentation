@@ -1,0 +1,48 @@
+<div id="footer">
+
+          {block:Pagination}
+
+          <h2>
+          {block:PreviousPage}
+          <a class="back-next" href="{PreviousPage}">Back</a>
+          {/block:PreviousPage}
+
+          {block:NextPage}
+          <a class="back-next" href="{NextPage}">Next</a>
+          {/block:NextPage}
+          </h2>
+
+          {/block:Pagination}
+
+  <div id="footer-links">
+
+      <ul>
+        <li><a href="/">Home</a></li>
+                      {block:HasPages}
+                      {block:Pages}
+            <li><a href="{URL}">{Label}</a></li>
+                      {/block:Pages}
+                      {/block:HasPages}
+                      {block:AskEnabled}
+            <li><a href="/ask">{AskLabel}</a></li>
+          {/block:AskEnabled}
+                      {block:SubmissionsEnabled}
+          <li><a href="/submit">{SubmitLabel}</a></li>
+          {/block:SubmissionsEnabled}
+                      <li><a href="/archive">Archive</a></li>
+    </ul>
+  </div>
+
+  <div class="colophon">
+
+              {block:IfShowCopyright}
+    <p>&copy; {Title} {CopyrightYears}</p>
+              {/block:IfShowCopyright}
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">
+  <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
+  <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</p>
+  <br/>
+    <p class="promo"><a href="http://zacksultan.com">Observer theme by Zack Sultan</a></p>
+
+
+  </div>

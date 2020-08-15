@@ -2,3 +2,26 @@ baseURL = "http://example.org/"
 languageCode = "de"
 title = "Diapräsentation"
 description = "Diaprojektor statt PowerPoint"
+publishDir = "docs"
+canonifyurls = true
+disableKinds = ["term", "taxonomy"]
+languagecode = "de"
+defaultcontentlanguage = "de"
+
+[module]
+
+    [[module.mounts]]
+        source = "assets/scss"
+        target = "assets/scss"
+
+    [[module.mounts]]
+        source = "assets/css"
+        target = "assets/css"
+
+    [[module.mounts]]
+        source = "static"
+        target = "static"
+
+    [[module.mounts]]
+        source = "node_modules/jquery/dist"
+        target = "assets/js/jquery"

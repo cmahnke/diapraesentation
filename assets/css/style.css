@@ -1,3 +1,4 @@
+// Every definition with a variable has been moved to 'base.scss'
 
 ::selection {
     background: #fff882; /* Safari */
@@ -41,96 +42,20 @@ h1, h2, h3 {
 /* Global colors
 ********************************/
 
-body {
-	color: {color:Body Text};
-	background-color: {color:Content Background};
-}
-
-.blog-description {
-	color: {color:Secondary Text};
-}
-
-a {
-	color: {color:Link Text};
-	text-decoration: none;
-	border-bottom: 1px solid rgba(136, 136, 136, 0.3);
-}
-
-#header h1 a {
-	color: {color:Header Text};
-	border-bottom: none;
-}
-
-a:hover {
-	color: {color:Link Hover};
-}
-
-a:active {
-	position: relative;
-	outline: none;
-	top: 1px;
-	color: {color:Link Active};
-}
-
-
-.metadata a, #footer-links a, #footer p.promo a, .links a {
-	color: {color:Secondary Text};
-	border-bottom: none;
-}
-
-.metadata a:hover, #footer-links a:hover, #footer p.promo a:hover, .links a:hover, .more a:hover, a.mobile-player:hover {
-	color: {color:Body Text};
-}
-
 .post {
 	border-bottom: 1px solid rgba(136, 136, 136, 0.4);
-}
-
-.colophon p {
-	color: {color:Secondary Text};
 }
 
 
 /* Global fonts
 ********************************/
 
-body {
-	font-family: {block:IfBodyFont}{text:Body Font},{/block:IfBodyFont} georgia, serif;
-	font-weight: normal;
-}
 
-.title h1, .link-title h1, .chat-title h1, .q h1, .a h1, .album-info h2, #footer h2 {
-	font-family: {block:IfTitleFont}{text:Title Font},{/block:IfTitleFont} georgia, serif;
-	font-weight: bold;
-}
-
-.blog-title h1 {
-	font-family: {block:IfHeaderFont}{text:Header Font},{/block:IfHeaderFont} futura, helvetica, arial, sans-serif;
-	font-weight: bold;
-	font-size: 96px;
-	line-height: 1em;
-}
-
-.metadata a {
-	font-family: {block:IfSecondaryFont}{text:Secondary Font},{/block:IfSecondaryFont} futura, helvetica, arial, sans-serif;
-	font-weight: normal;
-}
 
 
 /* Page
 ********************************/
 
-{block:IfWideImages}
-#page {
-	border: 0px solid;
-	max-width: 900px;
-	padding-left:  50px;
-	padding-right: 50px;
-	margin: auto;
-}
-{/block:IfWideImages}
-
-{block:IfNotWideImages}
 #page {
     border: 0px solid;
 	max-width: 640px;
@@ -138,7 +63,6 @@ body {
 	padding-right: 50px;
 	margin: auto;
 }
-{/block:IfNotWideImages}
 
 
 {block:IfAlternateHeaderLayout}

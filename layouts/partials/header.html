@@ -1,0 +1,17 @@
+<div id="header">
+  <div class="links">
+    <ul>
+      <li><a href="/">Home</a></li>
+                  {block:HasPages}
+                  {block:Pages}
+      <li><a href="{URL}">{Label}</a></li>
+                  {/block:Pages}
+                  {/block:HasPages}
+
+    </ul>
+  </div>
+    <div class="blog-title">
+      <h1><a href="/">{{ .Title }}</a></h1>
+      <p class="blog-description">{{ .Description }}</p>
+    </div>
+  </div>
