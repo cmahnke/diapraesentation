@@ -32,7 +32,11 @@
     {{ $style := slice $tumblrStyle $ourStyle | resources.Concat "css/concated.css" | minify | fingerprint }}
     <link href="{{ $style.RelPermalink }}" rel="stylesheet" integrity="{{ $style.Data.Integrity }}">
 
-    <body class="">
+    {{ $class := "" }}
+    {{ if hasPrefix .Page.File.Path "about" }}
+        {{ $class = "about" }}
+    {{ end }}
+    <body class="{{ $class }}">
       <div id="page">
         {{ partial "header.html" . }}
 

@@ -117,6 +117,12 @@ figure {
     max-width: 100%
 }
 
+body.about {
+    background-position: 97% 97%;
+    background-image: url(/images/cm.svg);
+    background-repeat: no-repeat;
+}
+
 @media screen and (max-width: 740px) {
 	#content img {
 		width: 100%
