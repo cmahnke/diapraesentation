@@ -24,18 +24,20 @@
         <div class="caption">
           {{ .Content }}
         </div>
-        <div class="metadata">
-          <div class="date">
-            <a href="{{ .RelPermalink }}">
-              {{- partial "date.html" (dict "date" .Date "language" $.Page.Language "months" $.Site.Data.months) -}}
-            </a>
-            {{ if .Params.tumblr_url }}
-              <span class="tumblr-url">
-                <a href="{{ .Params.tumblr_url }}">Original auf Tumblr</a>
-              </span>
-            {{ end }}
+        {{ if not (hasPrefix .Page.File.Path "about") }}
+          <div class="metadata">
+            <div class="date">
+              <a href="{{ .RelPermalink }}">
+                {{- partial "date.html" (dict "date" .Date "language" $.Page.Language "months" $.Site.Data.months) -}}
+              </a>
+              {{ if .Params.tumblr_url }}
+                <span class="tumblr-url">
+                  <a href="{{ .Params.tumblr_url }}">Original auf Tumblr</a>
+                </span>
+              {{ end }}
+            </div>
           </div>
-        </div>
+        {{ end }}
       </div>
     </div>
 </div>
