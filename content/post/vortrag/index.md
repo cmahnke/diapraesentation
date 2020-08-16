@@ -7,6 +7,6 @@ Noch ein Flohmarktfund ist mir ins Netz gegangen. Offenbar gab es in der DDR vor
 
 {{< figure src="89877016449_0.jpg" alt="Beschreibung und Dias" >}}
 
-{{< figure src="89877016449_0.jpg" alt="Tonbänder" >}}
+{{< figure src="89877016449_1.jpg" alt="Tonbänder" >}}
 
 Ob ich mir dafür nun noch ein Tonbandgerät beschaffe, weiß ich noch nicht.
