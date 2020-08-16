@@ -8,7 +8,6 @@ Das Arbeitsmaterial ist da, zwei Projektoren und ca. 500. Dias! Bei den Projekto
 
 Dabei ist der Paximat älter und somit repräsentativer, der Rollei “schneller” und daher gut geeignet für die Sichtung und Katalogisierung.
 
-![image](https://64.media.tumblr.com/5de6617bd4d07a28c984f2777e3b8f85/tumblr_inline_ms7xxnkqoH1qz4rgp.jpg)
+{{< figure src="59571798852_0.jpg" alt="Dias" >}}
 
 Eine besonderer Dank geht an dieser Stelle auch an den edlen Spender, den Trödelexperten und Diaenthusiast Thomas Heinemann!
-

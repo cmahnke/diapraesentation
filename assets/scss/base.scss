@@ -1,15 +1,14 @@
-$color-bg: "";
-$color-pri-text: "";
-$color-sec-text: "";
-$color-body-text: "";
-$color-link-text: "";
-$color-link-hover: "";
-$color-link-active: "";
-$color-header-text: "";
-$font-header: "";
-$font-title: "";
-$font-body: "";
-$font-sec: "";
+$color-bg: #fff;
+$color-sec-text: #888888;
+$color-body-text: #333333;
+$color-link-text: #333333;
+$color-link-hover: #333333;
+$color-link-active: #333333;
+$color-header-text: #333333;
+$font-header: futura;
+$font-title: futura;
+$font-body: georgia;
+$font-sec: futura;
 
 body {
 	color: $color-body-text;
@@ -56,6 +55,9 @@ a:active {
 	color: $color-sec-text;
 }
 
+/* Global fonts
+********************************/
+
 body {
 	font-family: $font-body, georgia, serif;
 	font-weight: normal;
@@ -78,9 +80,40 @@ body {
 	font-weight: normal;
 }
 
+/* Own additions
+********************************/
+
+.tumblr-url {
+	float: right;
+	text-align: right;
+	visibility: hidden;
+}
+
+.pagination {
+	text-align: center;
+	margin-bottom: 40px;
+  a {
+		font-family: $font-header, futura, helvetica, arial, sans-serif;
+		font-weight: bold;
+		text-decoration: none;
+		border-bottom: none;
+		&.back-next {
+		    margin: 0px 10px 0px 10px;
+		}
+	}
+	h2 {
+		font-size: 24px;
+		text-align: center;
+		margin-bottom: 40px;
+	}
+}
+
+figure {
+    margin: 0;
+}
+
 @media screen and (max-width: 740px) {
 	img {
 		width: 100%
 	}
-
 }

@@ -1,6 +1,5 @@
 ---
 date: "2013-11-08T20:14:00Z"
-tags: []
 title: Noch mehr Dias!
 tumblr_url: https://diapraesentation.tumblr.com/post/66499185186/noch-mehr-dias
 ---
@@ -10,4 +9,3 @@ Nachdem ein “Missgeschick” meiner Hausverwaltung mich heute zum ersten mal a
 - Ähnliche Zeit, allerdings eher Unterbelichtet, Familienbilder
 
 Ersteres ist natürlich besonders gut um Text davor darzustellen, letzteres ist vielleicht als Zwischenbild zu verwenden…
-

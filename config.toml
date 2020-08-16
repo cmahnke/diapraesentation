@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://diapraesentation.projektemacher.org/"
 languageCode = "de"
 title = "Diapräsentation"
 description = "Diaprojektor statt PowerPoint"
@@ -8,17 +8,22 @@ disableKinds = ["term", "taxonomy"]
 languagecode = "de"
 defaultcontentlanguage = "de"
 
+[params]
+copyrightYears = "2013 - 2015"
+
 [menu]
     [[menu.main]]
-        name = "Home"
+        name = "Start"
         weight = 1
         url = "/"
 
     [[menu.main]]
-        name = "About"
+        name = "Über"
         weight = 2
         url = "about/"
 
+[markup.goldmark.renderer]
+    unsafe= true
 
 [module]
     [[module.mounts]]
@@ -36,3 +41,7 @@ defaultcontentlanguage = "de"
     [[module.mounts]]
         source = "node_modules/jquery/dist"
         target = "assets/js/jquery"
+
+    [[module.mounts]]
+        source = "static"
+        target = "static"

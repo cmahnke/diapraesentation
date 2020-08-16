@@ -1,6 +1,7 @@
 ---
 title: Über dieses Blog
 slug: about
+displayInList: false
 ---
 Diapräsentationen war ein Projekt um die Sommerferien 2013  
 
@@ -8,4 +9,4 @@ Ursprünglich auf [Tumblr]() gehostet, ist es im Sommer 2020 zu [Projektemacher.
 
 # Kolophon
 
-Das Theme basiert auf dem Tumbler Theme [Observer von Zack Sultan]()
+Das Theme basiert auf dem Tumbler Theme [Observer von Zack Sultan](http://zacksultan.com)

@@ -1,6 +1,5 @@
 ---
 date: "2013-08-15T22:03:00Z"
-tags: []
 title: Der Anfang
 tumblr_url: https://diapraesentation.tumblr.com/post/59513379004/der-anfang
 ---
@@ -30,4 +29,3 @@ Berufskritiker Herr K. (nicht mit [Berthold Brecht](http://de.wikipedia.org/wiki
 - Dia und Folie ließen sich nicht so nah zueinander bringen, dass beides einigermaßen scharf an die Wand zu bringen sei.
 
 Ein Grund mehr das auszuprobieren…
-
