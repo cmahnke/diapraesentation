@@ -43,5 +43,13 @@ copyrightYears = "2013 - 2015"
         target = "assets/js/jquery"
 
     [[module.mounts]]
+        source = "node_modules/pdfjs-dist"
+        target = "static/js/pdfjs"
+
+    [[module.mounts]]
+        source = "node_modules/pdfobject"
+        target = "assets/js/pdfobject"
+
+    [[module.mounts]]
         source = "static"
         target = "static"
