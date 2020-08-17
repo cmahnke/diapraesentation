@@ -10,6 +10,6 @@ Diapräsentationen war ein Projekt um die Sommerferien 2013 ein wenig zu füllen
 # Kolophon
 Diese Seite wurde mit [Hugo](https://gohugo.io/) generiert. Das Theme basiert auf dem Tumbler Theme [Observer von Zack Sultan](http://zacksultan.com).
 
-Als Javasript Framework kommt [jQuery](https://jquery.com/) zum Einsatz.
+Als Javascript Framework kommt [jQuery](https://jquery.com/) zum Einsatz.
 
 Das [Einbinden der Bilder]({{ if hasPrefix .Page.File.Path "about" }}) und die [Anzeige des deutschen Datumformats](https://pfischbeck.de/en/posts/multilingual-dates-in-hugo/) sind aus den jeweils angebenen Quellen übernommen.
