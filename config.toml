@@ -8,6 +8,7 @@ disableKinds = ["term", "taxonomy"]
 languagecode = "de"
 defaultcontentlanguage = "de"
 enableGitInfo = true
+#theme = "observer-hugo"
 
 [params]
 copyrightYears = "2013 - 2015"
@@ -32,10 +33,6 @@ copyrightYears = "2013 - 2015"
         target = "assets/scss"
 
     [[module.mounts]]
-        source = "assets/css"
-        target = "assets/css"
-
-    [[module.mounts]]
         source = "static"
         target = "static"
 
@@ -50,7 +47,3 @@ copyrightYears = "2013 - 2015"
     [[module.mounts]]
         source = "node_modules/pdfobject"
         target = "assets/js/pdfobject"
-
-    [[module.mounts]]
-        source = "static"
-        target = "static"
