@@ -8,7 +8,7 @@ disableKinds = ["term", "taxonomy"]
 languagecode = "de"
 defaultcontentlanguage = "de"
 enableGitInfo = true
-#theme = "observer-hugo"
+theme = "observer-hugo"
 
 [params]
 copyrightYears = "2013 - 2015"
