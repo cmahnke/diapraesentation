@@ -7,6 +7,7 @@ canonifyurls = true
 disableKinds = ["term", "taxonomy"]
 languagecode = "de"
 defaultcontentlanguage = "de"
+enableGitInfo = true
 
 [params]
 copyrightYears = "2013 - 2015"

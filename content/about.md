@@ -9,7 +9,7 @@ Diapräsentationen war ein Projekt um die Sommerferien 2013 ein wenig zu füllen
 
 # Meine anderen Blogs
 
-Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org/) verzeichnet.
+Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org/blogs/) verzeichnet.
 
 # Kolophon
 Diese Seite wurde mit [Hugo](https://gohugo.io/) generiert. Das Theme basiert auf dem Tumbler Theme [Observer von Zack Sultan](http://zacksultan.com).
