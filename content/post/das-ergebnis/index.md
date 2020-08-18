@@ -3,7 +3,7 @@ date: "2013-08-27T11:21:00Z"
 title: Das Ergebnis
 tumblr_url: https://diapraesentation.tumblr.com/post/59571659779/das-ergebnis
 resources:
-- name: viewer
+- name: pdf-viewer
   src: "Dia-Vortrag.pdf"
   params:
     description: "Vortrag"

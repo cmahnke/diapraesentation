@@ -3,7 +3,7 @@ date: "2013-08-23T22:19:00Z"
 title: Die Vorlage
 tumblr_url: https://diapraesentation.tumblr.com/post/59571575106/die-vorlage
 resources:
-- name: viewer
+- name: pdf-viewer
   src: "Dia Vorlage.pdf"
   params:
     description: "Vorlage"
