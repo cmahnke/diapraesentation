@@ -1,1 +1,13 @@
 @import "observer";
+
+@media screen and (max-width: 900px) {
+    .blog-title h1 {
+        font-size: 5rem;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .blog-title h1 {
+        font-size: 3rem;
+    }
+}
