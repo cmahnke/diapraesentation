@@ -15,6 +15,7 @@ copyrightYears = "2013 - 2015"
 author = "Christian Mahnke"
 keywords = "Diaprojektor, Präsentation, Upcycling"
 description = "Diaprojektor statt PowerPoint"
+enablePDFViewer = true
 
 [menu]
     [[menu.main]]
@@ -40,13 +41,5 @@ description = "Diaprojektor statt PowerPoint"
         target = "static"
 
     [[module.mounts]]
-        source = "node_modules/jquery/dist"
-        target = "assets/js/jquery"
-
-    [[module.mounts]]
         source = "node_modules/pdfjs-dist"
         target = "static/js/pdfjs"
-
-    [[module.mounts]]
-        source = "node_modules/pdfobject"
-        target = "assets/js/pdfobject"
