@@ -11,3 +11,17 @@
         font-size: 3rem;
     }
 }
+
+@media screen and (max-width: 440px) {
+    .blog-title h1 {
+        font-size: 2rem;
+    }
+
+    #header .links {
+        .menu-title, .menu-title-short {
+            a {
+                font-size: 1.4rem;
+            }
+        }
+    }
+}
