@@ -20,6 +20,6 @@ Das [Einbinden der Bilder]({{ if hasPrefix .Page.File.Path "about" }}), das [Ein
 
 # Kontakt
 
-"Krähenbeißer" ist ein [Projekt](https://projektemacher.org) von **Christian Mahnke**.
+"Krähenbeißer" ist ein [Projekt](https://projektemacher.org) von **[Christian Mahnke](https://christianmahnke.de/)**.
 
 Kontakt ist via [E-Mail](mailto:diapraesentation@projektemacher.org) möglich.
