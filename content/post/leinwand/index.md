@@ -1,5 +1,5 @@
 ---
-date: "2014-05-25T19:33:00Z"
+date: 2014-05-25T19:33:00Z
 title: Leinwand
 tumblr_url: https://diapraesentation.tumblr.com/post/89875368884/leinwand
 ---

@@ -1,5 +1,5 @@
 ---
-date: "2013-11-06T21:02:00Z"
+date: 2013-11-06T21:02:00Z
 title: Neue Dias und Diarahmen
 tumblr_url: https://diapraesentation.tumblr.com/post/66492799731/neue-dias-und-diarahmen
 ---

@@ -1,5 +1,5 @@
 ---
-date: "2013-08-27T04:25:00Z"
+date: 2013-08-27T04:25:00Z
 title: Überblick verschaffen
 tumblr_url: https://diapraesentation.tumblr.com/post/59571804977/%C3%BCberblick-verschaffen
 ---

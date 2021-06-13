@@ -1,5 +1,5 @@
 ---
-date: "2014-06-25T19:44:24Z"
+date: 2014-06-25T19:44:24Z
 title: Ausblick
 tumblr_url: https://diapraesentation.tumblr.com/post/89876235679/ausblick
 ---

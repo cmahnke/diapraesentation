@@ -1,5 +1,5 @@
 ---
-date: "2013-11-08T20:14:00Z"
+date: 2013-11-08T20:14:00Z
 title: Noch mehr Dias!
 tumblr_url: https://diapraesentation.tumblr.com/post/66499185186/noch-mehr-dias
 ---

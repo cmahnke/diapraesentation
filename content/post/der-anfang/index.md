@@ -1,5 +1,5 @@
 ---
-date: "2013-08-15T22:03:00Z"
+date: 2013-08-15T22:03:00Z
 title: Der Anfang
 tumblr_url: https://diapraesentation.tumblr.com/post/59513379004/der-anfang
 ---

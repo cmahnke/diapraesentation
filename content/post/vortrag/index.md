@@ -1,5 +1,5 @@
 ---
-date: "2014-05-25T19:53:00Z"
+date: 2014-05-25T19:53:00Z
 title: Vortrag
 tumblr_url: https://diapraesentation.tumblr.com/post/89877016449/vortrag
 ---

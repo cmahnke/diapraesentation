@@ -1,5 +1,5 @@
 ---
-date: "2015-10-23T00:07:17Z"
+date: 2015-10-23T00:07:17Z
 title: Flohmarktfunde
 tumblr_url: https://diapraesentation.tumblr.com/post/131708899299/flohmarktfunde
 postType: link

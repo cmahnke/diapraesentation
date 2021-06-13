@@ -1,5 +1,5 @@
 ---
-date: "2013-08-22T01:25:00Z"
+date: 2013-08-22T01:25:00Z
 tags: []
 title: Die Ausrüstung
 tumblr_url: https://diapraesentation.tumblr.com/post/59571798852/die-ausr%C3%BCstung
