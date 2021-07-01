@@ -12,7 +12,7 @@ pdfjs-dist@^2.6.347:
   resolved "https://registry.yarnpkg.com/pdfjs-dist/-/pdfjs-dist-2.6.347.tgz#f257ed66e83be900cd0fd28524a2187fb9e25cd5"
   integrity sha512-QC+h7hG2su9v/nU1wEI3SnpPIrqJODL7GTDFvR74ANKGq1AFJW16PH8VWnhpiTi9YcLSFV9xLeWSgq+ckHLdVQ==
 
-pdfobject@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/pdfobject/-/pdfobject-2.1.1.tgz#2949d4d218d130d16b6149c7f7226f0a73400d4a"
-  integrity sha512-QFktTHyjs4q/WhGFfV2RdAbscPdNkyQb/JfFz18cwILvs9ocDiYVFAEh/jgkKGv6my+r4nlbLjwj7BHFKAupHQ==
+pdfobject@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/pdfobject/-/pdfobject-2.2.5.tgz#3e79dae8925a68f60c79423f56737bfd2d7e8a0b"
+  integrity sha512-B301nc24w02BMqrJoDOUBGRfHBqGtLztsdUyyhYsZaxD3R1DyNKtkDcilo+A4FYSW82k/LXAiXVREkYoqU2G4g==
