@@ -2,17 +2,30 @@
 # yarn lockfile v1
 
 
+dommatrix@^1.0.1:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/dommatrix/-/dommatrix-1.0.3.tgz#e7c18e8d6f3abdd1fef3dd4aa74c4d2e620a0525"
+  integrity sha512-l32Xp/TLgWb8ReqbVJAFIvXmY7go4nTxxlWiAFyhoQw9RKEOHBZNnyGvJWqDVSPmq3Y9HlM4npqF/T6VMOXhww==
+
 jquery@^3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
   integrity sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw==
 
-pdfjs-dist@^2.12.313:
-  version "2.12.313"
-  resolved "https://registry.yarnpkg.com/pdfjs-dist/-/pdfjs-dist-2.12.313.tgz#62f2273737bb956267ae2e02cdfaddcb1099819c"
-  integrity sha512-1x6iXO4Qnv6Eb+YFdN5JdUzt4pAkxSp3aLAYPX93eQCyg/m7QFzXVWJHJVtoW48CI8HCXju4dSkhQZwoheL5mA==
+pdfjs-dist@^2.14.305:
+  version "2.14.305"
+  resolved "https://registry.yarnpkg.com/pdfjs-dist/-/pdfjs-dist-2.14.305.tgz#ed2ecb439ff8af5446c90a310ebd30bc1a91df62"
+  integrity sha512-5f7i25J1dKIBczhgfxEgNxfYNIxXEdxqo6Qb4ehY7Ja+p6AI4uUmk/OcVGXfRGm2ys5iaJJhJUwBFwv6Jl/Qww==
+  dependencies:
+    dommatrix "^1.0.1"
+    web-streams-polyfill "^3.2.1"
 
 pdfobject@^2.2.8:
   version "2.2.8"
   resolved "https://registry.yarnpkg.com/pdfobject/-/pdfobject-2.2.8.tgz#956c8ce254883cdbc7c3cbee3d74d5a017f98d0b"
   integrity sha512-dB/soWNMLtVGHfXERXnAtsKm0XwC6lyGVYegQcZxL4rw07rNOKvawc9kddBzlGr7TbiBZuGf4Drb3kyRbTf/QA==
+
+web-streams-polyfill@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/web-streams-polyfill/-/web-streams-polyfill-3.2.1.tgz#71c2718c52b45fd49dbeee88634b3a60ceab42a6"
+  integrity sha512-e0MO3wdXWKrLbL0DgGnUV7WHVuw9OUvL4hjgnPkIeEvESk74gAITi5G606JtZPp39cd8HA9VQzCIvA49LpPN5Q==
