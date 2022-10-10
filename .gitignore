@@ -2,6 +2,8 @@ public
 docs
 node_modules/
 resources
+.hugo_build.lock
+hugo_stats.json
 static/images/favicon-*
 static/images/favicon.ico
 content/post/**/*.pdf
