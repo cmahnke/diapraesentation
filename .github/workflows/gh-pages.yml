@@ -31,6 +31,11 @@ jobs:
       - name: Build Hugo site
         run: hugo --printI18nWarnings --printUnusedTemplates
 
+      - name: Puppeteer
+        run: |
+          ./themes/projektemacher-base/scripts/init/package.json.sh
+          ./themes/projektemacher-base/scripts/github/check-js-errors.sh
+
       - name: Deploy site
         uses: peaceiris/actions-gh-pages@v3
         with:
