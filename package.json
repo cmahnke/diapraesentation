@@ -4,7 +4,7 @@
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {
-    "jquery": "^3.6.3",
+    "jquery": "^3.6.4",
     "pdfjs-dist": "^2.16.105",
     "pdfobject": "^2.2.8"
   }
