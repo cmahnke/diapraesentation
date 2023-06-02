@@ -6,6 +6,6 @@
   "dependencies": {
     "jquery": "^3.7.0",
     "pdfjs-dist": "^2.16.105",
-    "pdfobject": "^2.2.11"
+    "pdfobject": "^2.2.12"
   }
 }
