@@ -10,13 +10,6 @@ defaultcontentlanguage = "de"
 enableGitInfo = true
 theme = "observer-hugo"
 
-[params]
-copyrightYears = "2013 - 2015"
-author = "Christian Mahnke"
-keywords = "Diaprojektor, Präsentation, Upcycling"
-description = "Diaprojektor statt PowerPoint"
-enablePDFViewer = true
-
 [menu]
     [[menu.main]]
         name = "Start"
