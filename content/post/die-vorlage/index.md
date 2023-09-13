@@ -4,7 +4,7 @@ title: Die Vorlage
 tumblr_url: https://diapraesentation.tumblr.com/post/59571575106/die-vorlage
 resources:
 - name: pdf-viewer
-  src: "Dia Vorlage.pdf"
+  src: "Dia-Vorlage.pdf"
   params:
     description: "Vorlage"
 ---

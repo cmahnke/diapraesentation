@@ -4,7 +4,7 @@ title: Die Präsentation
 tumblr_url: https://diapraesentation.tumblr.com/post/59571655223/die-pr%C3%A4sentation
 resources:
 - name: pdf-viewer
-  src: "Dia Präsentation.pptx.pdf"
+  src: "Dia-Praesentation.pptx.pdf"
   params:
     description: "Präsentation"
 ---
