@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "jquery": "^3.7.1",
-    "pdfjs-dist": "^3.10.111",
+    "pdfjs-dist": "^3.11.174",
     "pdfobject": "^2.2.12"
   }
 }
