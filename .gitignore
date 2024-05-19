@@ -9,3 +9,4 @@ static/images/favicon.ico
 #content/post/**/*.pdf
 .hugo_build.lock
 **/.DS_Store
+data/stats.json
