@@ -9,7 +9,6 @@ languagecode = "de"
 defaultcontentlanguage = "de"
 enableGitInfo = true
 theme = "observer-hugo"
-enableGitInfo = true
 
 [menu]
     [[menu.main]]
