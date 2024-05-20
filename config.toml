@@ -61,3 +61,6 @@ theme = "observer-hugo"
     [[module.mounts]]
         source = "node_modules/pdfjs-dist"
         target = "static/js/pdfjs"
+
+[build]
+  writeStats = true
