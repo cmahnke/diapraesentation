@@ -1,4 +1,9 @@
 @import "observer";
+@import "./disable-lang";
+
+.links ul {
+  gap: 1rem;
+}
 
 @media screen and (max-width: 900px) {
     .blog-title h1 {
