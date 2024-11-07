@@ -50,6 +50,7 @@ jobs:
 
       - name: Puppeteer
         run: |
+          ./themes/projektemacher-base/scripts/github/setup-dependencies.sh
           ./themes/projektemacher-base/scripts/init/package.json.sh
           ./themes/projektemacher-base/scripts/github/check-js-errors.sh
 
