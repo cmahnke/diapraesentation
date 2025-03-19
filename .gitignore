@@ -4,8 +4,7 @@ node_modules/
 resources
 .hugo_build.lock
 hugo_stats.json
-static/images/favicon-*
-static/images/favicon.ico
+static/images/favicon*
 #content/post/**/*.pdf
 .hugo_build.lock
 **/.DS_Store
