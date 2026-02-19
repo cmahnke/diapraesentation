@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -e
+set -ex
 
 # Content files
 
@@ -18,4 +18,4 @@ convert static/images/favicon-256.png -resize 128x128 static/images/favicon-128.
 convert static/images/favicon-16.png static/images/favicon-32.png static/images/favicon-64.png static/images/favicon-128.png static/images/favicon-256.png -colors 256 static/images/favicon.ico
 
 # NPM dependencies
-yarn install
+npm install
