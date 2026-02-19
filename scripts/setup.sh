@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 # Content files
 
 cp "Source Files/Dia Vortrag.pdf" content/post/das-ergebnis
