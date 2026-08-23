@@ -1,5 +1,5 @@
 baseURL = "https://diapraesentation.projektemacher.org/"
-languageCode = "de"
+locale = "de"
 title = "Diapräsentation"
 description = "Diaprojektor statt PowerPoint"
 publishDir = "docs"
