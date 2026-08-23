@@ -5,7 +5,6 @@ description = "Diaprojektor statt PowerPoint"
 publishDir = "docs"
 canonifyurls = true
 disableKinds = ["term", "taxonomy"]
-languagecode = "de"
 defaultcontentlanguage = "de"
 enableGitInfo = true
 theme = "observer-hugo"
