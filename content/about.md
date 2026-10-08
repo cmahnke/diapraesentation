@@ -14,8 +14,6 @@ Meine anderen Blogs sind nun auf [Projektemacher.org](https://projektemacher.org
 # Kolophon
 Diese Seite wurde mit [Hugo](https://gohugo.io/) generiert. Das Theme basiert auf dem Tumbler Theme [Observer von Zack Sultan](http://zacksultan.com).
 
-Als Javascript Framework kommt [jQuery](https://jquery.com/) zum Einsatz.
-
 Das [Einbinden der Bilder]({{ if hasPrefix .Page.File.Path "about" }}), das [Einbinden des PDF Betrachters](https://pdfobject.com/) inklusive Fallback auf [PDF.js](https://mozilla.github.io/pdf.js/) und die [Anzeige des deutschen Datumformats](https://pfischbeck.de/en/posts/multilingual-dates-in-hugo/) sind aus den jeweils angebenen Quellen übernommen.
 
 # Kontakt
