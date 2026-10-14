@@ -2,6 +2,10 @@
 
 set -ex
 
+if [ -z "$DEPENDENCY_MANAGER" ] ; then
+  export DEPENDENCY_MANAGER=npm
+fi
+
 # Content files
 
 cp "Source Files/Dia Vortrag.pdf" content/post/das-ergebnis
@@ -18,4 +22,4 @@ convert static/images/favicon-256.png -resize 128x128 static/images/favicon-128.
 convert static/images/favicon-16.png static/images/favicon-32.png static/images/favicon-64.png static/images/favicon-128.png static/images/favicon-256.png -colors 256 static/images/favicon.ico
 
 # NPM dependencies
-npm install
+$DEPENDENCY_MANAGER install
