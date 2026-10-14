@@ -7,7 +7,7 @@ canonifyurls = true
 disableKinds = ["term", "taxonomy"]
 defaultcontentlanguage = "de"
 enableGitInfo = true
-theme = "observer-hugo"
+theme = ["observer-hugo", "projektemacher-base"]
 
 [menu]
     [[menu.main]]

@@ -1,10 +1,12 @@
 #!/bin/sh
 
-set -ex
+set -e -o pipefail
 
 if [ -z "$DEPENDENCY_MANAGER" ] ; then
   export DEPENDENCY_MANAGER=npm
 fi
+
+$PWD/themes/projektemacher-base/scripts/init/i18n.sh
 
 # Content files
 
