@@ -3,6 +3,7 @@
   keywords = "Diaprojektor, Präsentation, Upcycling"
   description = "Diaprojektor statt PowerPoint"
   enablePDFViewer = true
+  schemaPerson = "https://christianmahnke.de/person.jsonld"
 
 [params.author]
   email = 'mail@christianmahnke.de'
