@@ -1,5 +1,5 @@
-@import "observer";
-@import "./disable-lang";
+@use "observer";
+@use "./disable-lang";
 
 .links ul {
   gap: 1rem;

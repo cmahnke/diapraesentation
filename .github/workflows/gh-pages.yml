@@ -36,6 +36,9 @@ jobs:
         with:
           version: 9
 
+      - name: Install Dart Sass
+        run: npm install -g sass
+
       - name: Generate Files
         run: |
           ./scripts/setup.sh
