@@ -9,16 +9,44 @@ defaultcontentlanguage = "de"
 enableGitInfo = true
 theme = ["observer-hugo", "projektemacher-base"]
 
-[menu]
-    [[menu.main]]
-        name = "Start"
-        weight = 1
-        url = "/"
+[languages]
+    [languages.de]
+        label = "Deutsch"
+        locale = "de"
+        languageCode = "de"
 
-    [[menu.main]]
-        name = "Über"
-        weight = 2
-        url = "about/"
+        [languages.de.params]
+            description = "Diaprojektor statt PowerPoint"
+
+        [languages.de.menu]
+            [[languages.de.menu.main]]
+                name = "Start"
+                weight = 1
+                url = "/"
+
+            [[languages.de.menu.main]]
+                name = "Über"
+                weight = 2
+                url = "about/"
+
+    [languages.en]
+        label = "English"
+        locale = "en"
+        languageCode = "en"
+
+        [languages.en.params]
+            description = "Slide projector instead of PowerPoint"
+
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+                name = "Home"
+                weight = 1
+                url = "/"
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 2
+                url = "about/"
 
 [markup]
     defaultMarkdownHandler = 'goldmark'
