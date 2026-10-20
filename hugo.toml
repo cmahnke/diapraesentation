@@ -13,7 +13,6 @@ theme = ["observer-hugo", "projektemacher-base"]
     [languages.de]
         label = "Deutsch"
         locale = "de"
-        languageCode = "de"
 
         [languages.de.params]
             description = "Diaprojektor statt PowerPoint"
@@ -32,7 +31,6 @@ theme = ["observer-hugo", "projektemacher-base"]
     [languages.en]
         label = "English"
         locale = "en"
-        languageCode = "en"
 
         [languages.en.params]
             description = "Slide projector instead of PowerPoint"
