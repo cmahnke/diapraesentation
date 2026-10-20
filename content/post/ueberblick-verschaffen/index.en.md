@@ -3,6 +3,7 @@ date: 2013-08-27T04:25:00Z
 title: Getting an Overview
 params:
   tumblr_url: https://diapraesentation.tumblr.com/post/59571804977/%C3%BCberblick-verschaffen
+---
 The author received about 500 slides together with the projectors. How do you get an overview of them? How do you find the right motifs? Unfortunately there is only one way: look at all of them…
 
 A setup made of a webcam and a projector lends itself to this, see below.

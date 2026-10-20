@@ -3,6 +3,7 @@ date: 2013-08-28T02:32:00Z
 title: Erste Ergebnisse
 params:
   tumblr_url: https://diapraesentation.tumblr.com/post/59571759219/erste-ergebnisse
+---
 Hier nun die ersten zwei “Folien”:
 
 {{< figure src="59571759219_0.jpg" alt="Folie 1" >}}

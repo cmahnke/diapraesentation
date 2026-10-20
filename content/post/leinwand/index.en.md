@@ -3,6 +3,7 @@ date: 2014-05-25T19:33:00Z
 title: Screen
 params:
   tumblr_url: https://diapraesentation.tumblr.com/post/89875368884/leinwand
+---
 A visit to the local flea market has led to some interesting new acquisitions. A screen!
 
 {{< figure src="89875368884_0.jpg" alt="Perlwand 125" >}}

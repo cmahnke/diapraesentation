@@ -8,4 +8,5 @@ resources:
     description: "Talk"
 params:
   tumblr_url: https://diapraesentation.tumblr.com/post/59571659779/das-ergebnis
+---
 Under Mac OS X the presentation can be "printed" as a PDF quite easily from PowerPoint. The individual pages of the file can then be "placed" in InDesign quite simply. Here is the result:

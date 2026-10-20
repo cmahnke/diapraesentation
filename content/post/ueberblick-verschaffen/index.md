@@ -3,6 +3,7 @@ date: 2013-08-27T04:25:00Z
 title: Überblick verschaffen
 params:
   tumblr_url: https://diapraesentation.tumblr.com/post/59571804977/%C3%BCberblick-verschaffen
+---
 Ca. 500 Dias hat der Autor mit den Projektoren bekommen. Wie verschafft man sich dort einen Überblick? Wie findet man die passenden Motive? Es gibt leider nur einen Weg, sich alle ansehen…
 
 Dafür bietet sich ein Aufbau aus Webcam und Projektor an, siehe unten.

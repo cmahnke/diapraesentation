@@ -7,4 +7,5 @@ params:
   postType: link
   linkTarget: https://flohmarktfunde.projektemacher.org/
   linkTitle: Flohmarktfunde
+---
 Im Bereich der Dias habe ich seit ca. einem Jahr nicht mehr viel gemacht, daher gibt es nun ein neues Blog mit meinen besten Funden von Flohmärkten und aus Trödelläden in und um Göttingen.

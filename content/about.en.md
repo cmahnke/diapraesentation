@@ -5,6 +5,7 @@ date: 2020-08-15T20:01:09+02:00
 params:
   displayInList: false
   metaPage: true
+---
 Diapräsentationen was a project to fill the summer holidays of 2013 a little, which is why it has not been extended since the project was completed. Originally hosted on [Tumblr](https://tumblr.com/), it moved to [Projektemacher.de](https://projektemacher.org/) in the summer of 2020.
 
 # My other blogs

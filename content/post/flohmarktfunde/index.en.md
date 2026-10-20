@@ -7,4 +7,5 @@ params:
   postType: link
   linkTarget: https://flohmarktfunde.projektemacher.org/
   linkTitle: Flea Market Finds
+---
 In the area of slides I haven't done much for about a year now, so there is now a new blog with my best finds from flea markets and junk shops in and around Göttingen.

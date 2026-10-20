@@ -3,6 +3,7 @@ date: 2013-08-15T22:03:00Z
 title: Der Anfang
 params:
   tumblr_url: https://diapraesentation.tumblr.com/post/59513379004/der-anfang
+---
 Urlaub! Die richtige Zeit um einige alte Ideen umzusetzen. Meine Inneneinrichtung ist inzwischen komplettiert (Schrank). Daher etwas verwegeneres, da das Ganze zu funktionieren scheint, wird es Zeit das Ergebnis zu dokumentieren.
 
 # Die Idee

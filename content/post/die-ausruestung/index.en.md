@@ -4,6 +4,7 @@ tags: []
 title: The Equipment
 params:
   tumblr_url: https://diapraesentation.tumblr.com/post/59571798852/die-ausr%C3%BCstung
+---
 The working material has arrived: two projectors and about 500 slides! The projectors are a [Braun Paximat](http://de.wikipedia.org/wiki/Braun_Photo_Technik#Paximat "Braun Paximat on Wikipedia") and a [Rollei P355](https://www.google.com/search?q=Rollei+P355 "Google search").
 
 The Paximat is the older and thus more representative one, the Rollei "faster" and therefore well suited for viewing and cataloguing.
