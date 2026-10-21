@@ -58,7 +58,7 @@ jobs:
         run: |
           ./themes/projektemacher-base/scripts/github/setup-dependencies.sh
           ./themes/projektemacher-base/scripts/init/package.json.sh
-          ./themes/projektemacher-base/scripts/github/check-js-errors.sh
+          ./themes/projektemacher-base/scripts/github/check-js-errors.sh -i
 
       - name: Deploy site
         uses: peaceiris/actions-gh-pages@v4
