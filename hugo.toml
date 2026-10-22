@@ -8,6 +8,8 @@ defaultContentLanguage = "de"
 enableGitInfo = true
 theme = ["observer-hugo", "projektemacher-base"]
 
+enableRobotsTXT = true
+
 [languages]
     [languages.de]
         label = "Deutsch"
@@ -98,3 +100,6 @@ theme = ["observer-hugo", "projektemacher-base"]
 
 [build]
   writeStats = true
+
+[params.robots]
+  llmsTXT = true
