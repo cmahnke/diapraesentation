@@ -1,11 +1,10 @@
 baseURL = "https://diapraesentation.projektemacher.org/"
 locale = "de"
 title = "Diapräsentation"
-description = "Diaprojektor statt PowerPoint"
 publishDir = "docs"
 canonifyURLs = true
 disableKinds = ["term", "taxonomy"]
-defaultcontentlanguage = "de"
+defaultContentLanguage = "de"
 enableGitInfo = true
 theme = ["observer-hugo", "projektemacher-base"]
 
