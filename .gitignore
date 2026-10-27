@@ -17,3 +17,4 @@ data/stats.json
 /pnpm-lock.yaml
 
 /yarn.lock
+package.json
