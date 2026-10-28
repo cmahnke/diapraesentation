@@ -3,5 +3,8 @@
     "build": "hugo",
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
-  "dependencies": {}
+  "dependencies": {
+    "pdfjs-dist": "^6.4.299",
+    "pdfobject": "^2.3.1"
+  }
 }
