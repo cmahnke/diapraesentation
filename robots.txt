@@ -1,0 +1,13 @@
+User-agent: *
+
+
+Disallow: /*.bib$
+
+Disallow: /*.json$
+
+Disallow: /*.xml$
+
+Sitemap: https://diapraesentation.projektemacher.org/sitemap.xml
+
+
+llms-txt: https://diapraesentation.projektemacher.org/llms.txt
